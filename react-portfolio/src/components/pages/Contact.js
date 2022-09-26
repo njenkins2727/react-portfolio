@@ -2,7 +2,6 @@ import React from 'react';
 
 export default function Contact() {
   return (
-  <div class="border border-primary">
     <form>
       <label for="formControlInput" class="form-label my-2">Email address</label>
       <input type="email" class="form-control" id="formControlInput" placeholder="name@example.com"></input>
@@ -14,9 +13,6 @@ export default function Contact() {
       <input type="text" class="form-control" id="formControlInput" placeholder="type here"></input>
 
       <button type="button" class="btn btn-outline-dark my-2">Submit</button>
-    </form>
-  </div>
-       
-    
+    </form>       
   );
 }

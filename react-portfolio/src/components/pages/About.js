@@ -5,6 +5,7 @@ export default function About() {
     
     <div class="text-center">
       <h5>Hi my name is</h5>
+      {/* <img src={require('../../assets/profile-photo.jpg')} alt='profile photo'  class="card-img-top"></img>  */}
       <h1>Nathan Jenkins</h1>
       <p>
         I am a full stack developer who is going to continue to grow and thrive in this industry. 

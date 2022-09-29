@@ -8,7 +8,7 @@ export default function Portfolio() {
     
     <div class="col">
       <div class="card">
-        <img src={require('../../assets/e-commerce-home-page.jpeg')} alt='E-commerce art store homepage'  class="card-img-top" ></img> 
+        <img src={require('../../assets/screenshots/e-commerce-home-page.jpeg')} alt='E-commerce art store homepage'  class="card-img-top" ></img> 
         <div class="card-body">
           <h5 class="card-title">E commerce art store</h5>
           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -20,7 +20,7 @@ export default function Portfolio() {
 
     <div class="col">
       <div class="card">
-        <img src={require('../../assets/jate-screenshot.png')} alt='jate text editor homepage' class="card-img-top" ></img> 
+        <img src={require('../../assets/screenshots/jate-screenshot.png')} alt='jate text editor homepage' class="card-img-top" ></img> 
           <div class="card-body">
           <h5 class="card-title">JATE</h5>
           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -32,7 +32,7 @@ export default function Portfolio() {
 
     <div class="col">
       <div class="card">
-        <img src={require('../../assets/note-taker.png')} alt='note taker app homepage' class="card-img-top" ></img> 
+        <img src={require('../../assets/screenshots/note-taker.png')} alt='note taker app homepage' class="card-img-top" ></img> 
         <div class="card-body">
           <h5 class="card-title">Note Taker</h5>
           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
@@ -44,7 +44,7 @@ export default function Portfolio() {
 
     <div class="col">
       <div class="card">
-        <img src={require('../../assets/reademe-generator.png')} alt='functional read.me generator' class="card-img-top" ></img> 
+        <img src={require('../../assets/screenshots/reademe-generator.png')} alt='functional read.me generator' class="card-img-top" ></img> 
           <div class="card-body">
             <h5 class="card-title">README.md generator </h5>
             <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -55,7 +55,7 @@ export default function Portfolio() {
 
     <div class="col">
       <div class="card">
-        <img src={require('../../assets/work-schedule.png')} alt='scheduler app homepage' class="card-img-top" ></img> 
+        <img src={require('../../assets/screenshots/work-schedule.png')} alt='scheduler app homepage' class="card-img-top" ></img> 
         <div class="card-body">
           <h5 class="card-title">Schedule Planner</h5>
           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -67,7 +67,7 @@ export default function Portfolio() {
 
     <div class="col">
       <div class="card">
-        <img src={require('../../assets/password-generator.png')} alt='password generator app homepage' class="card-img-top" ></img> 
+        <img src={require('../../assets/screenshots/password-generator.png')} alt='password generator app homepage' class="card-img-top" ></img> 
         <div class="card-body">
           <h5 class="card-title">Password Generator</h5>
           <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>

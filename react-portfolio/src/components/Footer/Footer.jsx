@@ -1,7 +1,7 @@
 import React from "react";
-import githubIcon from "../assets/icons/github-icon.png"
-import linkedinIcon from "../assets/icons/linkedin.png"
-import stackOverflowIcon from "../assets/icons/stackOverflow.png"
+import githubIcon from "../../assets/icons/github-icon.png"
+import linkedinIcon from "../../assets/icons/linkedin.png"
+import stackOverflowIcon from "../../assets/icons/stackOverflow.png"
 
 function Footer(){
     return (

@@ -1,5 +1,5 @@
 import React from "react";
-import { validateEmail } from '../../utils/emailAuth'
+import { validateEmail } from '../../utils/validateEmail'
 import { useState } from 'react';
 import './Contact.css'
 

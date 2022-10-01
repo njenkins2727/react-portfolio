@@ -1,21 +1,28 @@
 import React from 'react';
+import './Resume.css'
+import resume  from '../../assets/resume/nathan-resume.pdf'
+import downloadIcon from '../../assets/icons/download-icon.png'
 
 export default function Resume() {
   return (
-    <div>
-      <h1 class="text-center">Resume</h1>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
-      </p>
+    <div class="resume-section">
+      <h1>Resume</h1>
+      <ul class="list">
+        <li>React</li>
+        <li>GraphQL/Apollo</li>
+        <li>Progressive Web Applications</li>
+        <li>NoSQL (MongoDB)</li>
+        <li>MySQL</li>
+        <li>Express.js</li>
+        <li>Node.js</li>
+        <li>Sequalize ORM</li>
+        <li>Serverside APIs</li>
+        <li>Web Apis / Third-party APIs</li>
+        <li>HTML/CSS/Javascript</li>
+      </ul>
+
+      <a href={ resume } download>  <button type="button" class="btn btn-outline-primary"> <img src={downloadIcon} alt="download icon" width='20px' height='20px'/> Resume Downlaod</button> </a> 
+
     </div>
   );
 }

@@ -32,7 +32,9 @@ Navigate through the portfolio by clicking th tabs in the nav bar on top of the 
 
 ![Screenshot of webpage](src/assets/screenshots/react-portfolio-screenshot.png)
 
-## Deployed
+## Deployed 
+
+
 
 ## Questions
 If you want to contact me or have any questions you can visit my [Github](https://github.com/njenkins2727)

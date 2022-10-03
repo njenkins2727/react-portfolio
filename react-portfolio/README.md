@@ -8,6 +8,7 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Deployed](#deployed)
   - [Questions](#questions)
 
 ## Description
@@ -29,6 +30,11 @@ Start the app
 ## Usage
 Navigate through the portfolio by clicking th tabs in the nav bar on top of the page, all icons you can click onto to take you to the desired page. 
 
+![Screenshot of webpage](src/assets/screenshots/react-portfolio-screenshot.png)
+
+## Deployed
+
 ## Questions
 If you want to contact me or have any questions you can visit my [Github](https://github.com/njenkins2727)
 or if you have any further questions you can also send me an email: njenkins2727
+

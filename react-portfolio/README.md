@@ -11,11 +11,10 @@
   - [Questions](#questions)
 
 ## Description
-This application is the my porfolio using react. I used react for the many attribute it has to offer, such as: 
+This application is the my porfolio using react. React has been quite fun to learn and seems like in the future it will be useful in terms of speed as you can create smaller and more efficient files of code. The challenges I faced where the css portion, currently as of right now css has barely been touched on however this is something I am going to work on in the future. I used react for the many attribute it has to offer, such as: 
   - Usability 
   - Flexability 
   - Reausable components
-React has been quite fun to learn and seems like in the future it will be useful in terms of speed as you can create smaller and more efficient files of code. The challenges I faced where the css portion, currently as of right now css has barely been touched on however this is something I am going to work on in the future.  
 
 ## Installation
 Clone the repo 

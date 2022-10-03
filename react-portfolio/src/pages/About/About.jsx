@@ -4,7 +4,7 @@ import './About.css'
 export default function About() {
   return (
     
-    <div class="text-center main">
+    <div class="text-center">
       <h5>Hi my name is</h5>
       <img src={require('../../assets/profile-photo/profile-photo.jpg')} alt='profile photo'  class="pfp"></img> 
       <h2>Nathan Jenkins</h2>

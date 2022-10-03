@@ -4,11 +4,3 @@
     width: 150px;
     object-fit: cover;  
 }
-.main{
-    background-image: url(../../assets/background/background-img.jpg);
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    background-clip: fixed;
-   
-}

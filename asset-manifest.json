@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.ffae52bd.css",
+    "main.js": "/react-portfolio/static/js/main.fa427fdb.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/reademe-generator.png": "/react-portfolio/static/media/reademe-generator.ff1b15c5dcb25be2ff46.png",
+    "static/media/profile-photo.jpg": "/react-portfolio/static/media/profile-photo.e35028cb8c9440f3f80f.jpg",
+    "static/media/e-commerce-home-page.jpeg": "/react-portfolio/static/media/e-commerce-home-page.8d38e480a98fd6914048.jpeg",
+    "static/media/work-schedule.png": "/react-portfolio/static/media/work-schedule.2b728898aeaf745d3018.png",
+    "static/media/nathan-resume.pdf": "/react-portfolio/static/media/nathan-resume.e3cf5ae950ab0fdf3472.pdf",
+    "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.5f22939a363e802e622b.png",
+    "static/media/note-taker.png": "/react-portfolio/static/media/note-taker.050df50986d0f9c82634.png",
+    "static/media/jate-screenshot.png": "/react-portfolio/static/media/jate-screenshot.cae5f6febe9cc9a233ae.png",
+    "static/media/github-icon.png": "/react-portfolio/static/media/github-icon.22cfdd1cba253783ce51.png",
+    "static/media/deployed-icon.jpeg": "/react-portfolio/static/media/deployed-icon.2f30b7c7977043cea8c5.jpeg",
+    "static/media/linkedin.png": "/react-portfolio/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/stackOverflow.png": "/react-portfolio/static/media/stackOverflow.2400c752617663767078.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.ffae52bd.css.map": "/react-portfolio/static/css/main.ffae52bd.css.map",
+    "main.fa427fdb.js.map": "/react-portfolio/static/js/main.fa427fdb.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffae52bd.css",
+    "static/js/main.fa427fdb.js"
+  ]
+}

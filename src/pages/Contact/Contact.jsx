@@ -39,12 +39,12 @@ function Contact() {
 
         <div class="mb-4">
           <label htmlFor="name" class="form-label">Name:</label>
-          <input type="text" name="name" class="form-control" placeholder="Ella Rodgers" defaultValue={name} onBlur={handleChange} />
+          <input type="text" name="name" class="form-control" placeholder="Nathan Jenkins" defaultValue={name} onBlur={handleChange} />
         </div>
 
         <div class="mb-4">
           <label htmlFor="email" class="form-label">Email address:</label>
-          <input type="email" name="email" class="form-control" placeholder="Ella@gmail.com" defaultValue={email} onBlur={handleChange} />
+          <input type="email" name="email" class="form-control" placeholder="Nathan@gmail.com" defaultValue={email} onBlur={handleChange} />
         </div>
             
         <div class="mb-4">

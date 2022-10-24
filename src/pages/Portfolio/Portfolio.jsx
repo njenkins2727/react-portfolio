@@ -20,10 +20,10 @@ export default function Portfolio() {
 
     <div class="col">
       <div class="card">
-        <img src={require('../../assets/screenshots/jate-screenshot.png')} alt='jate text editor homepage' class="card-img-top" ></img> 
+        <img src={"https://github.com/inspirewh/helpinghands/raw/main/client/src/assets/img/helpinghandsscreenshot.PNG"} alt='helping hand home page' class="card-img-top" ></img> 
           <div class="card-body">
-          <h5 class="card-title">JATE</h5>
-          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          <h5 class="card-title">Helping Hands</h5>
+          <p class="card-text">A pay it forward donation page to help people in need.</p>
           <a href='https://github.com/njenkins2727/pwa-text-editor'> <img src={require('../../assets/icons/github-icon.png')} alt='github icon'  height='50px' ></img>  </a>      
           <a href='https://jate-text-editor-app.herokuapp.com/'><img src={require('../../assets/icons/deployed-icon.jpeg')} alt='deployed icon'  height='50px' ></img> </a>
         </div>
